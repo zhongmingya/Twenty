@@ -4,10 +4,6 @@ layout: default
 
 <!-- Section -->
 <section>
-	<header class="major">
-		<h2>Erat lacinia</h2>
-	</header>
-	<div class="features">
 		    <!-- Banner Wrapper -->
       <div id="banner-wrapper">
         <div class="inner">
