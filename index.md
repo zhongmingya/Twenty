@@ -17,6 +17,7 @@ layout: default
               Or an enormous ad. Whatever.</p>
             </section>
 	</div>
+	</div>
 </section>
 
 <!-- Section -->
