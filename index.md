@@ -4,16 +4,12 @@ layout: default
 
 <!-- Section -->
 <section>
-		    <!-- Banner Wrapper -->
-      <div id="banner-wrapper">
-        <div class="inner">
-		          <!-- Banner -->
-            <section id="banner" class="container">
-              <p>Use this space for <strong>profound thoughts</strong>.<br />
-              Or an enormous ad. Whatever.</p>
-            </section>
-	</div>
-	</div>
+	<!-- Box -->
+		<h3>Box</h3>
+		<div class="box">
+			<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum.</p>
+		</div>
+
 </section>
 
 <!-- Section -->
