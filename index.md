@@ -4,14 +4,11 @@ layout: default
 
 <!-- Section -->
 <section>
-			<h3>Blockquote</h3>
+	<header class="major">
+		<h2>Blockquote</h2>
+	</header>
+	<div class="posts">
 			<blockquote>Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent. Lorem ipsum dolor. Lorem ipsum dolor vestibulum ante ipsum primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus.</blockquote>
-
-<!-- Box -->
-			<h3>Box</h3>
-			<div class="box">
-				<p>Felis sagittis eget tempus primis in faucibus vestibulum. Blandit adipiscing eu felis iaculis volutpat ac adipiscing accumsan eu faucibus. Integer ac pellentesque praesent tincidunt felis sagittis eget. tempus euismod. Magna sed etiam ante ipsum primis in faucibus vestibulum.</p>
-			</div>
 
 </section>
 
